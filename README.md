@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stagnet (Abhishek)
-- 👀 I’m interested in Vuejs , React native , ionic , nodejs , building cool apps which try to resolve real world some problems.
+- 👀 I’m interested in Vuejs , React native , ionic , nodejs , building cool apps which try to some resolve real world problems.
 - 🌱 I’m currently learning Vuejs , React native , ionic , nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
