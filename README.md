@@ -1,29 +1,49 @@
-### Hey there 👋 I'm Abhishek (@stagnet)
+### Hey there 👋 I'm Abhishek Ramola (@stagnet)
 
-**Senior Software Developer** with 4+ years of experience building production-grade web and desktop applications.
+**Senior Software Developer** with 5+ years of experience building scalable web apps, desktop platforms, and hardware-integrated systems. I care about performance, clean architecture, and shipping things that solve real problems.
 
-#### 🛠 What I Work With
-- **Frontend:** Vue.js · React · TypeScript
-- **Backend:** Node.js · GraphQL
-- **Desktop:** Electron.js (multi-process architecture, real-time IPC pipelines)
-- **Hardware Integration:** Serial communication · RFID devices · Dispensing terminals
+---
 
-#### 🔭 What I'm Up To
-- Building desktop fuel dispensing platforms with real-time hardware integration at **FuelBuddy (UAE)**
-- Mentoring developers and driving architecture decisions across the frontend stack
-- Exploring system design patterns for scalable, offline-capable desktop apps
+#### 🛠 Tech Stack
 
-#### 🌱 What I'm Diving Deeper Into
-- Advanced system design & frontend architecture at scale
-- CI/CD pipelines and developer tooling
-- Bridging the gap between web and hardware through Electron.js
+**Frontend:** Vue.js · Nuxt.js · React · Next.js · TypeScript · Pinia · Vuex
+**Desktop:** Electron.js (IPC pipelines, multi-process architecture, hardware integration)
+**Backend:** Node.js · GraphQL · REST APIs
+**Data Viz:** Chart.js · ApexCharts · Leaflet
+**DevOps:** Docker · GitHub Actions · CI workflows
+**AI-Assisted Dev:** Claude · Codex · Cursor
+
+---
+
+#### 🔭 What I'm Working On
+
+- Architecting a **desktop fuel dispensing platform** at **FuelBuddy (UAE)** using Electron.js, Vue 3, and GraphQL — with real-time hardware communication (RFID, serial devices, dispensers)
+- Offloading CPU-heavy tasks (polling, printing, RFID handling) into **Node.js child processes** for 40% better runtime performance
+- Mentoring developers and driving frontend architecture decisions across the team
+
+#### 🏗 Notable Projects
+
+- **EV Charging Dashboard** — Advanced energy consumption reporting with Nuxt.js, Pinia & ApexCharts
+- **Document Creator** — Drag-and-drop contract builder with Vue.js, Vuex & PDF.js
+- **Sensor Analytics Dashboard** — Real-time sensor data viz with Nuxt.js, Chart.js & Leaflet
+
+---
+
+#### 🌱 Currently Diving Deeper Into
+
+- System design for offline-capable, hardware-connected desktop apps
+- CI/CD pipeline optimization and developer tooling
+- AI-assisted development workflows for faster, production-grade delivery
 
 #### 💞️ Open to Collaborating On
-- Developer tools, desktop apps, or anything that solves a messy real-world problem
-- Open-source projects around Electron.js, Vue.js, or hardware-web bridges
+- Developer tools, desktop apps, or open-source around Electron.js / Vue.js / React.js basically everything javascript/typescript :)
+- Anything that bridges the gap between web and hardware
+---
 
-#### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/abhishek-ramola/) · [Email](mailto:dev_abhi98@outlook.com)
+#### 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/-Abhishek%20Ramola-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ramola)
+[![Email](https://img.shields.io/badge/-dev__abhi98@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:dev_abhi98@outlook.com)
 
 <!---
 stagnet/stagnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
